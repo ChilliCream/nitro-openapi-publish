@@ -2,7 +2,7 @@ name: "Nitro OpenAPI Publish"
 description: "Publishes OpenAPI documents to the Nitro registry"
 author: "ChilliCream"
 branding:
-  icon: "upload-cloud"
+  icon: "send"
   color: "green"
 
 inputs:
